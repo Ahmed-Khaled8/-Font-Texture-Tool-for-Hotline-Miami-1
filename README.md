@@ -1,13 +1,11 @@
 # Font-Texture-Tool-for-Hotline-Miami-1
 This tool allows you to extract font textures from .phyre files and re-insert the modified textures back into .phyre files.
-
+---
 
 
 ### Extract:
 
-Extract font textures from `.phyre` files to PNG 
-
-**Steps:**
+You can extract font textures from `.phyre` files to PNG, by: 
 1. Select the directory containing `.phyre` files
 2. Choose an output directory for PNG files
 
@@ -18,11 +16,9 @@ Extract font textures from `.phyre` files to PNG
 
 ---
 
-Inject
+### Inject:
 
-Re-insert your edited textures back into `.phyre` files.
-
-**Steps:**
+After extract you can re-insert your edited textures back into `.phyre` files, by:
 1. Select the directory with original `.phyre` files
 2. Select the directory with modified PNG files
 3. fChoose an output directory for `.phyre` modified iles
@@ -34,6 +30,4 @@ Re-insert your edited textures back into `.phyre` files.
 
 ---
 
-### Important
-
-**Always backup your original files before injecting modifications!**
+And that's it
