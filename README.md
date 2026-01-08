@@ -3,7 +3,7 @@ This tool allows you to extract font textures from .phyre files and re-insert th
 
 
 
-### <ins>Extract Mode</ins>
+### Extract Mode
 
 Extract font textures from `.phyre` files to PNG format.
 
